@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Git - 标签 - Kevzhang&#39;s Blog</title>
+        <link>https://kevcode1.github.io/tags/git/</link>
+        <description>Git - 标签 - Kevzhang&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kev.zhangx@gmail.com (kevzhang)</managingEditor>
+            <webMaster>kev.zhangx@gmail.com (kevzhang)</webMaster><lastBuildDate>Sun, 30 Jan 2022 21:17:13 &#43;0800</lastBuildDate><atom:link href="https://kevcode1.github.io/tags/git/" rel="self" type="application/rss+xml" /><item>
+    <title>Learn Git</title>
+    <link>https://kevcode1.github.io/posts/learn-git/</link>
+    <pubDate>Sun, 30 Jan 2022 21:17:13 &#43;0800</pubDate><author>
+        <name>kevzhang</name>
+    </author><guid>https://kevcode1.github.io/posts/learn-git/</guid>
+    <description><![CDATA[Git 笔记概述 Git：免费的、开源的分布式版本控制系统。（相对应的也有集中式版本控制工具） 版本控制：记录文件内容变化，以便后续查阅特定版本修订情]]></description>
+</item></channel>
+</rss>
